@@ -11,6 +11,7 @@ The default php version is 7.4 on ubuntu 20.04  . Freepbx 15 does not support  7
 
 If you try to install freepbx 15 on ubuntu 20.04 with php 7.4 ,you may encounter php errors and warnings like below.
 
+```
 Array and string offset access syntax with curly braces is deprecated
 
 chown [-f|–file FILE] [-m|–module MODULE]
@@ -19,7 +20,8 @@ In Process.php line 239:
 
 The command “/usr/sbin/fwconsole chown” failed.
 
-Exit Code: 255(Unknown error)
+Exit Code: 255(Unknown error
+```
 
 
 ### **What is the Solution ? :**
