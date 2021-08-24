@@ -26,7 +26,7 @@ Exit Code: 255(Unknown error
 
 ### **What is the Solution ? :**
 
-The solution is either  modifying freepbx installation files or downgrading php version on ubuntu.
+The solution is either  modifying freepbx installation files or downgrading php version on ubuntu.The latter is easy right ? (:
 
 
 ### **So what does this script do ? :**
