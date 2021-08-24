@@ -40,8 +40,11 @@ Just download the script [directly](https://github.com/balusreekanth/installfree
 
 
 
+----------xxxxxxxxx-------------xxxxxx----------xxxxxxxxxx-----------------
 
+Did it help you reduce time to install freepbx?  have you saved some X bucks on hiring ? . would you like to donate X/10  bucks ?
 
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=99YKLH5LPK5YA)
 
 
 
