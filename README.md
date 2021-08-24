@@ -34,7 +34,7 @@ This will install php 7.3 ,asterisk 16 and Freepbx 15 with minimal manual interv
 Only couple of sections may require user input like selecting freepbx modules at makemenuselect (this could also be automated using commands , But I preferred leaving it to user)
 
 
-Just download the script directly or clone repository ,  chmod +x  and run the script .  If you need any help give me a shout (:
+Just download the script [directly](https://github.com/balusreekanth/installfreepbx/blob/main/freepbx.sh) or clone repository ,  chmod +x  and run the script .  If you need any help give me a shout (:
 
 
 
